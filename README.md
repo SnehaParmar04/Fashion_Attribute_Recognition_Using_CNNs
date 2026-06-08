@@ -160,6 +160,10 @@ fashion-attribute-recognition/
 # Ensure dataset path is correct
 # Run all cells sequentially
 
+
+
+
+---
 Author
 Sneha Maheshbhai Parmar
 Msc. Data Science
