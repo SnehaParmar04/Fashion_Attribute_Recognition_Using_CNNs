@@ -151,8 +151,8 @@ fashion-attribute-recognition/
 # Run all cells sequentially
 
 ---
-##  Author
+## ** AUTHOR**
 
-Name: Sneha Maheshbhai Parmar
-Degree: MSc. Data Science
-University: University of Europe
+**Sneha Maheshbhai Parmar**  
+**MSc. Data Science**  
+**University of Europe**
