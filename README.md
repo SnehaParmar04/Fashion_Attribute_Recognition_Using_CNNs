@@ -164,7 +164,7 @@ fashion-attribute-recognition/
 
 
 ---
-Author
+##  Author
 Sneha Maheshbhai Parmar
 Msc. Data Science
 University of Europe
