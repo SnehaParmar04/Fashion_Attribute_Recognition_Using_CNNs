@@ -155,9 +155,9 @@ fashion-attribute-recognition/
 
 ##  How to Run the Project
 
-# Open notebook in Kaggle or Colab
-# Ensure dataset path is correct
-# Run all cells sequentially
+ Open notebook in Kaggle or Colab
+ Ensure dataset path is correct
+ Run all cells sequentially
 
 
 
