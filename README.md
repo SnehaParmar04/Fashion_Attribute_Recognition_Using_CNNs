@@ -155,7 +155,6 @@ fashion-attribute-recognition/
 
 ##  How to Run the Project
 
-```bash
 # Open notebook in Kaggle or Colab
 # Ensure dataset path is correct
 # Run all cells sequentially
@@ -165,6 +164,7 @@ fashion-attribute-recognition/
 
 ---
 ##  Author
+```bash
 
 Sneha Maheshbhai Parmar  
 MSc. Data Science  
