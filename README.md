@@ -25,7 +25,7 @@ The performance of both models was evaluated to analyze the effectiveness of tra
 
 ---
 
-###  Selected Classes (7 Classes)
+##  Selected Classes (7 Classes)
 
 - Shirts  
 - Tshirts  
@@ -131,7 +131,6 @@ The models were evaluated using:
 ---
 
 ##  Repository Structure
-
 fashion-attribute-recognition/
 │
 ├── Fashion_Attribute_Recognition.ipynb
@@ -142,31 +141,17 @@ fashion-attribute-recognition/
 
 ---
 
-##  Output Figures
-
-- CNN Accuracy Curve  
-- CNN Loss Curve  
-- CNN Confusion Matrix  
-- MobileNetV2 Accuracy Curve  
-- MobileNetV2 Loss Curve  
-- MobileNetV2 Confusion Matrix  
-
----
-
 ##  How to Run the Project
 
- Open notebook in Kaggle or Colab
- Ensure dataset path is correct
- Run all cells sequentially
-
-
-
-
----
-##  Author
 ```bash
+# Open notebook in Kaggle or Colab
 
-Sneha Maheshbhai Parmar  
-MSc. Data Science  
-University of Europe
+# Ensure dataset path is correct
 
+# Run all cells sequentially
+
+Author
+
+Name: Sneha Maheshbhai Parmar
+Degree: MSc. Data Science
+University: University of Europe
